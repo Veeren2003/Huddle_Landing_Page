@@ -1,0 +1,396 @@
+body{
+    margin: 0;
+    position: relative;
+}
+main{
+    height: auto;
+}
+.logo{
+    width: 170px;
+    position: relative;
+    left: 80px;
+    top: 70px;
+}
+.button1{
+    cursor: pointer;
+    border: 2px solid hsl(321, 100%, 78%);
+    background-color: white;
+    color: hsl(321, 100%, 78%);
+    border-radius: 30px;
+    width: 125px;
+    height: 40px;
+    position: absolute;
+    right: 80px;
+    top: 70px;
+}
+header{
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+.Huddle{
+    font-size: large;
+    line-height: 1.7;
+    opacity: 0.7;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 165px;
+}
+.button2{
+    cursor: pointer;
+    border: 2px solid hsl(322, 100%, 66%);
+    font-size: 18px;
+    color: white;
+    border-radius: 35px;
+    background-color: hsl(322, 100%, 66%);
+    width: 335px;
+    height: 55px;
+    position: relative;
+    bottom: 450px;
+    left: 515px;
+}
+.button2:active{
+    background-color: white;
+    color: hsl(322, 100%, 66%);
+}
+.mockups{
+    width: 950px;
+    position: relative;
+    top: 350px;
+    right: 120px;
+}
+.communities{
+    color: hsl(192, 100%, 9%);
+    font-family: 'Open Sans', sans-serif;
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: 450px;
+    left: 300px;
+}
+.secondh1{
+    margin: 0;
+    text-align: center;
+    line-height: 0.8;
+    font-weight: 900;
+    font-size: 70px;
+}
+.icon-commune{
+    width: 30px;
+    margin-left: 8px;
+}
+.secondpara{
+    width: 200px;
+    opacity: 0.8;
+    color: grey;
+    font-size: 17px;
+    font-weight: 500;
+}
+.icon-msg{
+    width: 30px;
+    margin-bottom: 10px;
+    margin-left: 11px;
+}
+.msgsent{
+    color: hsl(192, 100%, 9%);
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: 340px;
+    left: 870px;
+}
+.thirdh1{
+    text-align: center;
+    line-height: 0.8;
+    margin: 0;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 70px;
+}
+.thirdpara{
+    opacity: 0.8;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    position: relative;
+    left: 30px;
+}
+.top1_img {
+    width: 1440px;
+}
+.bottom1_img {
+    position: relative;
+    bottom: 5px;
+}
+.Outside-block1 {
+    background-color: white;
+    width: auto;
+    height: auto;
+    position: relative;
+    top: 500px;
+}
+.Inside-block1 {
+    width: 1440px;
+    background-color:  hsl(207, 100%, 98%);
+    height: 400px;
+    position: relative;
+    bottom: 4px;
+
+}
+.Grow {
+    font-family: 'Poppins', sans-serif;
+    width: auto;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.forth-h1 {
+    color: hsl(192, 100%, 9%);
+}
+.forth-para {
+    color: hsl(192, 100%, 9%);
+    line-height: 1.6;
+    font-size: 15px;
+    font-weight: 600;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+}
+.grow-together_img {
+    width: 500px;
+    position: absolute;
+    right: 100px;
+    top: 170px;
+}
+.Outside-block2 {
+    width: auto;
+    height: auto;
+    position: relative;
+    top: 700px;
+}
+.flow-con_img {
+    float: left;
+    width: 500px;
+    position: relative;
+    left: 100px;
+}
+.Inside-block2 {
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+.fifth-h1 {
+    font-family: 'Poppins', sans-serif;
+    color: hsl(192, 100%, 9%);
+}
+.fifth-para {
+    color: hsl(192, 100%, 9%);
+    line-height: 1.6;
+    font-size: 15px;
+    font-weight: 600;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+}
+.Outside-block3{
+    position: relative;
+    top: 900px;
+}
+.Inside-block3 {
+    background-color:  hsl(207, 100%, 98%);
+    width: 1440px;
+    height: 400px;
+    position: relative;
+    bottom: 4px;
+
+}
+.user_img{
+    width: 500px;
+    position: absolute;
+    right: 50px;
+    bottom: 150px;
+}
+.User {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.sixth-h1 {
+    font-family: 'Poppins', sans-serif;
+    color: hsl(192, 100%, 9%);
+}
+.sixth-para {
+    color: hsl(192, 100%, 9%);
+    line-height: 1.6;
+    font-size: 15px;
+    font-weight: 600;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+}
+.seventh-h1{
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+.Outside-block4{
+    height: auto;
+    width: auto;
+    position: relative;
+    top: 900px;
+}
+.button3{
+    border: 0;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    border-radius: 35px;
+    background-color: hsl(322, 100%, 66%);
+    width: 305px;
+    height: 55px;
+    position: relative;
+    left: 515px;
+    top: 200px;
+}
+.button3:active{
+    background-color: hsl(321, 100%, 78%);
+}
+.Last_block{
+    width: auto;
+    height: 500px;
+    position: relative;
+    top: 1250px;
+}
+.Last_inside_block {
+    background-color: hsl(192, 100%, 9%);
+    width: 1440px;
+    height: 450px;
+    position: relative;
+    bottom: 5px;
+}
+.footer_img {
+    width: 1440px;
+}
+.left {
+    position: absolute;
+    left: 70px;
+    top: 80px;
+}
+.logo1 {
+    width: 170px;
+    -webkit-filter: grayscale(100%) invert(1);
+    filter: grayscale(100%) invert(1);
+}
+.left-p {
+    letter-spacing: 0.4;
+    line-height: 1.7;
+    font-weight: 400;
+    color: white;
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 13px;
+}
+.phone {
+    float: left;
+    margin-top: 6px;
+}
+.left-p1 {
+    margin-left: 40px;
+    letter-spacing: 0.4;
+    line-height: 1.7;
+    font-weight: 400;
+    color: white;
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 15px;
+}
+.Email {
+    float: left;
+    margin-top: 6px;
+}
+.left-p2 {
+    margin-left: 40px;
+    letter-spacing: 0.4;
+    line-height: 1.7;
+    font-weight: 400;
+    color: white;
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 15px;
+}
+.icon1 {
+    width: 25px;
+    float: left;
+    margin-top: 50px;
+}
+.icon2 {
+    width: 25px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.icon3 {
+    width: 25px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.small {
+    cursor: pointer;
+    opacity: 0;
+    border-radius: 4px;
+    background-color: skyblue;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 94px;
+    bottom: 29px;
+}
+.small:hover {
+    opacity: 1;
+}
+.icon4 {
+    width: 18px;
+    position: absolute;
+    left: 5px;
+    top: 4px;
+
+}
+.right{
+    position: absolute;
+    right: 190px;
+    top: 80px;
+}
+.final-h1 {
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.right-p {
+    margin-bottom: 40px;
+    letter-spacing: 0.4;
+    line-height: 1.7;
+    color: white;
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 13px;
+}
+.gmail {
+    cursor: pointer;
+    border:0;
+    border-radius: 8px;
+    width: 270px;
+    height: 35px;
+}
+.sub {
+    cursor: pointer;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    width: 120px;
+    height: 41px;
+}
+.sub:active {
+    background-color: hsl(321, 100%, 78%);
+}
